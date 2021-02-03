@@ -1,3 +1,4 @@
+[Discussion Post (created on 3/1/2021 at 23:36)](https://leetcode.com/problems/missing-number/solution/)  
 <h2>268. Missing Number</h2><h3>Easy</h3><hr><div><p>Given an array <code>nums</code> containing <code>n</code> distinct numbers in the range <code>[0, n]</code>, return <em>the only number in the range that is missing from the array.</em></p>
 
 <p><b>Follow up:</b> Could you implement a solution using only <code>O(1)</code> extra space complexity and <code>O(n)</code> runtime complexity?</p>
